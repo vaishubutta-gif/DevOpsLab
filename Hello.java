@@ -5,5 +5,6 @@ System.out.println("Welcome to DevOps");
 System.out.println("Learning Distributed Version Control System");
 System.out.println("Hello Welcome to Github");
 System.out.println("New feature1 added");
+System.out.println("Learning git fetch command"); 
 }
 }
